@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 0,
+        "alottedTime" : "9: 00 am" ,
+        "flag": false
+    },
+    {
+        "id": 1,
+        "alottedTime": "10: 00 am",
+        "flag": true
+    },
+    {
+        "id": 2,
+        "alottedTime": "11: 00 am",
+        "flag": false
+    },
+    {
+        "id": 3,
+        "alottedTime": "12: 00 pm",
+        "flag": false
+    },
+    {
+        "id": 4,
+        "alottedTime": "1: 00 pm",
+        "flag": false
+    },
+    {
+        "id": 5,
+        "alottedTime": "2: 00 pm",
+        "flag":false
+    },
+    {
+        "id": 6,
+        "alottedTime": "3: 00 pm",
+        "flag": false
+    },
+    {
+        "id": 7,
+        "alottedTime": "4: 00 pm",
+        "flag": false
+    },
+    {
+        "id": 8,
+        "alottedTime": "5: 00 pm",
+        "flag": false
+    }
+]
